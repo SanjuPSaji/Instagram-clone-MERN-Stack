@@ -1,6 +1,6 @@
-# Instagram Clone - MERN Stack
+# [Instagram Clone - MERN Stack](https://www.youtube.com/playlist?list=PLB97yPrFwo5g0FQr4rqImKa55F_aPiQWk)
 
-This is a full-stack Instagram clone built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It replicates the core features of Instagram, allowing users to sign up, upload photos, follow other users, like and comment on posts, and explore a feed of posts from users they follow.
+> This is a full-stack Instagram clone built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It replicates the core features of Instagram, allowing users to sign up, upload photos, follow other users, like and comment on posts, and explore a feed of posts from users they follow.
 
 ## Features
 
