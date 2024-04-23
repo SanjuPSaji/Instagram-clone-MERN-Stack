@@ -37,6 +37,10 @@ const CretePost = ()=>{
     },[url])
   
    const postDetails = ()=>{
+       if(image==null || image===""){
+            alert("No Image Selected To Upload!")
+            return;
+        }
        const data = new FormData()
        data.append("file",image)
        data.append("upload_preset","new-insta")
